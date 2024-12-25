@@ -1,34 +1,35 @@
-<h1 align="center">Hi there, it is MERGEN 👋</h1>
+### Hi there, I'm Mergen 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Vue3-green" alt="Vue3" />
-  <img src="https://img.shields.io/badge/Code-HTML-orange" alt="HTML" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue" alt="CSS" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Style-Tailwind-blue" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Code-Git-black" alt="Git" />
-  <img src="https://img.shields.io/badge/Code-Firebase-orange" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Style-Bootstrap-purple" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Code-PHP-darkblue" alt="PHP" />
-  <img src="https://img.shields.io/badge/Code-Laravel-red" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Code-WordPress-blue" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Code-Tilda-lightgrey" alt="Tilda" />
-</p>
+🚀 **Full-Stack Developer** | 💻 **Tech Enthusiast** | 🌐 **Web Architect**
 
 ---
 
-<h2 align="center">About Me</h2>
-<p align="center">
-  Full Stack Developer at <b>ForeachSoft LTD</b>.
-</p>
+#### About Me:
+- 🏢 Working at **ForeachSoft LTD** as a Full-Stack Developer.
+- 🔧 Skilled in **Vue3**, **Laravel**, **Firebase**, **WordPress**, and more.
+- 🎨 Front-end expertise: **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, **Bootstrap (v3-v5)**.
+- 📡 Back-end tools: **PHP**, **Laravel**, **Git**.
 
 ---
+
+#### 🌟 What I Do:
+- Build dynamic and user-friendly web applications.
+- Design scalable back-end systems.
+- Collaborate on projects with a passion for delivering quality code.
+
 ---
 
-<h2 align="center">My Skills</h2>
-<ul>
-  <li>Vue3, HTML, CSS, JavaScript</li>
-  <li>Tailwind, Git, Firebase</li>
-  <li>Bootstrap (3-5), PHP, Laravel</li>
-  <li>WordPress, Tilda</li>
-</ul>
+#### 📚 Currently Exploring:
+- 🛠️ Advanced Laravel features.
+- ⚛️ Modern front-end frameworks and best practices.
+- ☁️ Cloud and DevOps technologies.
+
+---
+
+#### 🌐 Let's Connect:
+- 💼 [LinkedIn](https://linkedin.com/in/mergen-xezretov-b310942b9)   
+- 📧 Reach me at: **xezretovmergen@gmail.com**
+
+---
+
+⚡ _"Turning ideas into scalable and impactful solutions!"_
