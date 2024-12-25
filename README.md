@@ -8,7 +8,7 @@
 - 🏢 Working at **ForeachSoft LTD** as a Full-Stack Developer.
 - 🔧 Skilled in **Vue3**, **Laravel**, **Firebase**, **WordPress**, and more.
 - 🎨 Front-end expertise: **HTML**, **CSS**, **JavaScript**, **Tailwind CSS**, **Bootstrap (v3-v5)**.
-- 📡 Back-end tools: **PHP**, **Laravel**, **Git**.
+- 📡 Back-end tools: **PHP**, **Laravel**, **Git** , **MySQL** .
 
 ---
 
